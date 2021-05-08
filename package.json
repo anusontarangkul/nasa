@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/anusontarangkul/nasa/issues"
   },
-  "homepage": "https://github.com/anusontarangkul/nasa#readme"
+  "homepage": "https://github.com/anusontarangkul/nasa#readme",
+  "dependencies": {
+    "morgan": "^1.10.0"
+  }
 }
